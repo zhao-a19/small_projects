@@ -1,2 +1,2 @@
-# CurlMultiDlownFile
-The project is a tool for multi-threaded file downloading based on the curl library, supporting breakpoint resumption and MD5 verification.
+# Small projects
+用于保存练习是写的小项目
